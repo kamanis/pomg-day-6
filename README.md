@@ -1,1 +1,1 @@
-# pomg-day-6
+# Pong-game-day-3
